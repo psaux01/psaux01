@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @psaux01
+- 👀 I’m interested in ...desarrollar aplicaciones para android
+- 🌱 I’m currently learning ...about flutter
+- 💞️ I’m looking to collaborate on ...ideas para mejorar apps
+- 📫 How to reach me ...
